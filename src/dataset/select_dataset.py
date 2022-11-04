@@ -1,6 +1,5 @@
 import os
 
-
 def define_Dataset(stage,dataset_name):
     data_path = os.path.join('.', 'dataset', dataset_name, stage)
     if stage == 'train':
