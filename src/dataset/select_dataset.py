@@ -40,7 +40,7 @@ def define_Dataset(stage,dataset_name):
         elif dataset_name in ['rain100H']:
             data_path = os.path.join(data_path,'small')
             ## rain12 用 rain100H来测试
-            data_path = os.path.join('.', 'dataset', 'rain12')
+            # data_path = os.path.join('.', 'dataset', 'rain12')
             from dataset.DerainDataset import TestDataset as D
             dataset = D(data_path)
             print('Val Dataset [{:s} - {:s}] is created.'.format(dataset.__class__.__name__, dataset_name))

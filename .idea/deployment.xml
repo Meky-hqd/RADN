@@ -9,6 +9,20 @@
           </mappings>
         </serverdata>
       </paths>
+      <paths name="huangqingdong@10.21.76.94:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="huangqingdong@10.21.76.94:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="root@10.21.76.33:25167">
         <serverdata>
           <mappings>
